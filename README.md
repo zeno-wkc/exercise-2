@@ -4,5 +4,5 @@
 - Create components
 - Create extra page 
 - Link page 
-- useState Playlist
+- useState Playlist (data, array, object)
 - Button (onClick)
